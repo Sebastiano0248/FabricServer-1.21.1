@@ -29,4 +29,3 @@ Afegir la carpeta `Modpack/Client Mods` a `%appdata%/.minecraft/mods`
 - [**Healing Campfire**](https://www.curseforge.com/minecraft/mc-mods/healing-campfire/relations/dependencies) (dependences: Collective): Fa que la foguera proporcioni regeneració
 - [**Amplified Nether**](https://www.curseforge.com/minecraft/mc-mods/amplified-nether): Augmenta la altura del nether de 100 a 200
 - [**Artifacts**](https://www.curseforge.com/minecraft/mc-mods/artifacts/relations/dependencies) (dependences: Architectury API & Cloth Config API & Trinkets): Afegeix trinkets interessants al joc
-- [**Oritech**](https://www.curseforge.com/minecraft/mc-mods/oritech/relations/dependencies) (dependences: Architectury API & Athena & Forgified Fabric API & GeckoLib & o?o): Millora de forns per extreure minerals
