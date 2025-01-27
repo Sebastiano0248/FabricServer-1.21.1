@@ -1,8 +1,16 @@
 # FabricServer-1.21.1
 Servidor de Fabric amb mods
+# Comprovar versió de java
+Hauria de sortir el java 23
+```powershell
+java -version
+```
+
+# Iris installation
+Instal·lar la versió de client 1.21.1 en Iris + Forge 
 
 # ModPack
-
+Afegir la carpeta `Modpack/Client Mods` a `%appdata%/.minecraft/mods`
 - **Iris + Sodium**: Permite usar Shaders y mods simultáneamente
 - [**Do a Barrel Roll 3.7.1**](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll/files/all?page=1&pageSize=20&gameVersionTypeId=4) (dependences: Fabric API & Cicada): Poder volar con las elytra de una manera más realista
 - [**DistantHorizons**](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/files/all?page=1&pageSize=20&gameVersionTypeId=4): Permet veure molt més lluny sense comprometre en excés al rendiment
